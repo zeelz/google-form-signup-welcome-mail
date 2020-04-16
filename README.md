@@ -9,5 +9,4 @@ HOW TO USE THE SCRIPT
 3. Click the save icon to save the script
 4. Go to Edit > Current Project's Triggers
 5. In the "Add Trigger for Mail to Volunteer" popup, the function is automatically selected since it's the only function in the script. Choose 'Head' for deployment; Event source: "The spreadsheet", Event type: "On form Submit"; Failure notification: "Daily" 
-
-f
+I added a marker on colunm 'Z' to determine if a mail has been sent already, in case a user resubmits the form
